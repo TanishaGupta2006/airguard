@@ -1,4 +1,4 @@
-# AirGuard — Urban Air Quality Risk Predictor
+# AirGuard - Urban Air Quality Risk Predictor
 
 A simple, ML-centric college project that follows the machine-learning lifecycle from data preparation to model evaluation and a Streamlit frontend.
 
