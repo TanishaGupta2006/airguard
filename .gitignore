@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+models/*.joblib
+models/*.npy
+models/*.json
+data/*.csv
