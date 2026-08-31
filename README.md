@@ -120,16 +120,4 @@ Used as the stronger nonlinear model and selected automatically if it performs b
 - Classification report
 - Confusion matrix saved during training
 
-## Viva explanation
 
-**Why this project?**
-Air pollution is a real-world problem with measurable pollutant features. Machine learning can learn relationships between pollutant concentrations and observed AQI categories.
-
-**Why classification?**
-The target `AQI_Bucket` is categorical, so this is a supervised multiclass classification problem.
-
-**Why not use AQI as an input?**
-AQI is excluded because the target category is derived from AQI. Including AQI would create target leakage and make the model less meaningful.
-
-**Why Random Forest?**
-It can model nonlinear relationships between multiple pollutants and is robust for tabular data.
