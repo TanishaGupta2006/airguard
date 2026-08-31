@@ -119,5 +119,3 @@ Used as the stronger nonlinear model and selected automatically if it performs b
 - 5-fold cross-validation F1
 - Classification report
 - Confusion matrix saved during training
-
-
